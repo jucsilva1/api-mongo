@@ -1,2 +1,2 @@
 # api-mongo
-Primeira api CRUD com MongoDb( mongoose) de uma maneira bem simples.
+Primeira api CRUD NodeJS com MongoDb( mongoose) de uma maneira bem simples.
